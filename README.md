@@ -10,3 +10,7 @@ The skills that has been demonstrated with this project being done is:
 7. The ability to implement links using anchors which references absolute links or relative links on a website with HTML, to enable navigation between webpages inside the current website, or to enable navigation outside of the website.
 8. The ability to implement images which uses absolute links or relative links on websites with HTML.
 
+This website copy pasted the text contents of cafedelites.com to enable myself to focus only on the coding part, the exact references used are:
+- https://cafedelites.com/artisan-bread-recipe/
+- https://cafedelites.com/chicken-noodle-soup/
+- https://cafedelites.com/slow-cooker-chili/
